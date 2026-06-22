@@ -1,0 +1,60 @@
+name: Fetch Polymarket Slugs
+
+on:
+  # Run every 15 minutes to capture closed 5m/15m markets
+  schedule:
+    - cron: '*/15 * * * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+  # Also run on push to main (to generate initial data)
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/fetch-slugs.py'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch slugs from Gamma API
+        id: fetch
+        run: |
+          python scripts/fetch-slugs.py 2>&1 | tee fetch_output.log
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if [[ -n "$(git status --porcelain data/)" ]]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Changes detected in data/"
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No changes — skipping commit"
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "polymarket-slug-bot"
+          git config user.email "bot@polymarket-slugs.local"
+          git add data/
+          # Count new slugs for commit message
+          ADDED=$(git diff --cached --numstat data/ | awk '{s+=$1} END {print s}')
+          git commit -m "chore(data): add $ADDED new slugs [skip ci]"
+          git push
