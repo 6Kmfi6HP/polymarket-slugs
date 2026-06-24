@@ -92,6 +92,7 @@ bnb-updown-15m-1782252900
 bnb-updown-15m-1782253800
 bnb-updown-15m-1782254700
 bnb-updown-15m-1782255600
+bnb-updown-15m-1782256500
 bnb-updown-15m-1782257400
 btc-updown-15m-1782171900
 btc-updown-15m-1782172800
@@ -187,6 +188,7 @@ btc-updown-15m-1782252900
 btc-updown-15m-1782253800
 btc-updown-15m-1782254700
 btc-updown-15m-1782255600
+btc-updown-15m-1782256500
 btc-updown-15m-1782257400
 doge-updown-15m-1782171900
 doge-updown-15m-1782172800
@@ -282,6 +284,7 @@ doge-updown-15m-1782252900
 doge-updown-15m-1782253800
 doge-updown-15m-1782254700
 doge-updown-15m-1782255600
+doge-updown-15m-1782256500
 doge-updown-15m-1782257400
 eth-updown-15m-1782171900
 eth-updown-15m-1782172800
@@ -377,6 +380,7 @@ eth-updown-15m-1782252900
 eth-updown-15m-1782253800
 eth-updown-15m-1782254700
 eth-updown-15m-1782255600
+eth-updown-15m-1782256500
 eth-updown-15m-1782257400
 hype-updown-15m-1782171900
 hype-updown-15m-1782172800
@@ -472,6 +476,7 @@ hype-updown-15m-1782252900
 hype-updown-15m-1782253800
 hype-updown-15m-1782254700
 hype-updown-15m-1782255600
+hype-updown-15m-1782256500
 hype-updown-15m-1782257400
 sol-updown-15m-1782171900
 sol-updown-15m-1782172800
@@ -567,6 +572,7 @@ sol-updown-15m-1782252900
 sol-updown-15m-1782253800
 sol-updown-15m-1782254700
 sol-updown-15m-1782255600
+sol-updown-15m-1782256500
 sol-updown-15m-1782257400
 xrp-updown-15m-1782171900
 xrp-updown-15m-1782172800
@@ -662,4 +668,5 @@ xrp-updown-15m-1782252900
 xrp-updown-15m-1782253800
 xrp-updown-15m-1782254700
 xrp-updown-15m-1782255600
+xrp-updown-15m-1782256500
 xrp-updown-15m-1782257400
