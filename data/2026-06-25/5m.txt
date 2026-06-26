@@ -517,6 +517,7 @@ btc-updown-5m-1782413400
 btc-updown-5m-1782413700
 btc-updown-5m-1782414000
 btc-updown-5m-1782414300
+btc-updown-5m-1782414600
 btc-updown-5m-1782414900
 btc-updown-5m-1782415200
 btc-updown-5m-1782415500
@@ -1380,6 +1381,7 @@ hype-updown-5m-1782413400
 hype-updown-5m-1782413700
 hype-updown-5m-1782414000
 hype-updown-5m-1782414300
+hype-updown-5m-1782414600
 hype-updown-5m-1782414900
 hype-updown-5m-1782415200
 hype-updown-5m-1782415500
