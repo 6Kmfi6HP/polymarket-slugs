@@ -81,11 +81,13 @@ bnb-updown-15m-1782415800
 bnb-updown-15m-1782416700
 bnb-updown-15m-1782417600
 bnb-updown-15m-1782418500
+bnb-updown-15m-1782419400
 bnb-updown-15m-1782420300
 bnb-updown-15m-1782421200
 bnb-updown-15m-1782422100
 bnb-updown-15m-1782423000
 bnb-updown-15m-1782423900
+bnb-updown-15m-1782424800
 bnb-updown-15m-1782425700
 bnb-updown-15m-1782426600
 bnb-updown-15m-1782427500
@@ -175,11 +177,13 @@ btc-updown-15m-1782415800
 btc-updown-15m-1782416700
 btc-updown-15m-1782417600
 btc-updown-15m-1782418500
+btc-updown-15m-1782419400
 btc-updown-15m-1782420300
 btc-updown-15m-1782421200
 btc-updown-15m-1782422100
 btc-updown-15m-1782423000
 btc-updown-15m-1782423900
+btc-updown-15m-1782424800
 btc-updown-15m-1782425700
 btc-updown-15m-1782426600
 btc-updown-15m-1782427500
@@ -359,6 +363,7 @@ eth-updown-15m-1782410400
 eth-updown-15m-1782411300
 eth-updown-15m-1782412200
 eth-updown-15m-1782413100
+eth-updown-15m-1782414000
 eth-updown-15m-1782414900
 eth-updown-15m-1782415800
 eth-updown-15m-1782416700
@@ -460,11 +465,13 @@ hype-updown-15m-1782415800
 hype-updown-15m-1782416700
 hype-updown-15m-1782417600
 hype-updown-15m-1782418500
+hype-updown-15m-1782419400
 hype-updown-15m-1782420300
 hype-updown-15m-1782421200
 hype-updown-15m-1782422100
 hype-updown-15m-1782423000
 hype-updown-15m-1782423900
+hype-updown-15m-1782424800
 hype-updown-15m-1782425700
 hype-updown-15m-1782426600
 hype-updown-15m-1782427500
@@ -560,6 +567,7 @@ sol-updown-15m-1782421200
 sol-updown-15m-1782422100
 sol-updown-15m-1782423000
 sol-updown-15m-1782423900
+sol-updown-15m-1782424800
 sol-updown-15m-1782425700
 sol-updown-15m-1782426600
 sol-updown-15m-1782427500
@@ -643,6 +651,7 @@ xrp-updown-15m-1782410400
 xrp-updown-15m-1782411300
 xrp-updown-15m-1782412200
 xrp-updown-15m-1782413100
+xrp-updown-15m-1782414000
 xrp-updown-15m-1782414900
 xrp-updown-15m-1782415800
 xrp-updown-15m-1782416700
@@ -654,6 +663,7 @@ xrp-updown-15m-1782421200
 xrp-updown-15m-1782422100
 xrp-updown-15m-1782423000
 xrp-updown-15m-1782423900
+xrp-updown-15m-1782424800
 xrp-updown-15m-1782425700
 xrp-updown-15m-1782426600
 xrp-updown-15m-1782427500
