@@ -35,6 +35,9 @@ bnb-updown-15m-1782644400
 bnb-updown-15m-1782648000
 bnb-updown-15m-1782648900
 bnb-updown-15m-1782649800
+bnb-updown-15m-1782654300
+bnb-updown-15m-1782655200
+bnb-updown-15m-1782656100
 btc-updown-15m-1782604800
 btc-updown-15m-1782605700
 btc-updown-15m-1782606600
@@ -72,6 +75,10 @@ btc-updown-15m-1782647100
 btc-updown-15m-1782648000
 btc-updown-15m-1782648900
 btc-updown-15m-1782649800
+btc-updown-15m-1782650700
+btc-updown-15m-1782654300
+btc-updown-15m-1782655200
+btc-updown-15m-1782656100
 doge-updown-15m-1782604800
 doge-updown-15m-1782605700
 doge-updown-15m-1782606600
@@ -108,6 +115,10 @@ doge-updown-15m-1782644400
 doge-updown-15m-1782648000
 doge-updown-15m-1782648900
 doge-updown-15m-1782649800
+doge-updown-15m-1782650700
+doge-updown-15m-1782654300
+doge-updown-15m-1782655200
+doge-updown-15m-1782656100
 eth-updown-15m-1782604800
 eth-updown-15m-1782605700
 eth-updown-15m-1782606600
@@ -143,6 +154,9 @@ eth-updown-15m-1782644400
 eth-updown-15m-1782648000
 eth-updown-15m-1782648900
 eth-updown-15m-1782649800
+eth-updown-15m-1782654300
+eth-updown-15m-1782655200
+eth-updown-15m-1782656100
 hype-updown-15m-1782604800
 hype-updown-15m-1782605700
 hype-updown-15m-1782606600
@@ -178,6 +192,9 @@ hype-updown-15m-1782647100
 hype-updown-15m-1782648000
 hype-updown-15m-1782648900
 hype-updown-15m-1782649800
+hype-updown-15m-1782654300
+hype-updown-15m-1782655200
+hype-updown-15m-1782656100
 sol-updown-15m-1782604800
 sol-updown-15m-1782605700
 sol-updown-15m-1782606600
@@ -213,6 +230,10 @@ sol-updown-15m-1782644400
 sol-updown-15m-1782648000
 sol-updown-15m-1782648900
 sol-updown-15m-1782649800
+sol-updown-15m-1782650700
+sol-updown-15m-1782654300
+sol-updown-15m-1782655200
+sol-updown-15m-1782656100
 xrp-updown-15m-1782604800
 xrp-updown-15m-1782605700
 xrp-updown-15m-1782606600
@@ -249,3 +270,7 @@ xrp-updown-15m-1782644400
 xrp-updown-15m-1782648000
 xrp-updown-15m-1782648900
 xrp-updown-15m-1782649800
+xrp-updown-15m-1782650700
+xrp-updown-15m-1782654300
+xrp-updown-15m-1782655200
+xrp-updown-15m-1782656100
