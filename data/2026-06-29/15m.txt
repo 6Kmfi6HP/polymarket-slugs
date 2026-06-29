@@ -1,0 +1,7 @@
+bnb-updown-15m-1782690300
+btc-updown-15m-1782690300
+doge-updown-15m-1782690300
+eth-updown-15m-1782690300
+hype-updown-15m-1782690300
+sol-updown-15m-1782690300
+xrp-updown-15m-1782690300
