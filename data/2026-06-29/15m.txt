@@ -189,6 +189,7 @@ btc-updown-15m-1782772200
 btc-updown-15m-1782773100
 btc-updown-15m-1782774000
 btc-updown-15m-1782774900
+btc-updown-15m-1782775800
 doge-updown-15m-1782690300
 doge-updown-15m-1782691200
 doge-updown-15m-1782692100
@@ -284,6 +285,7 @@ doge-updown-15m-1782772200
 doge-updown-15m-1782773100
 doge-updown-15m-1782774000
 doge-updown-15m-1782774900
+doge-updown-15m-1782775800
 eth-updown-15m-1782690300
 eth-updown-15m-1782691200
 eth-updown-15m-1782692100
@@ -475,6 +477,7 @@ hype-updown-15m-1782772200
 hype-updown-15m-1782773100
 hype-updown-15m-1782774000
 hype-updown-15m-1782774900
+hype-updown-15m-1782775800
 sol-updown-15m-1782690300
 sol-updown-15m-1782691200
 sol-updown-15m-1782692100
