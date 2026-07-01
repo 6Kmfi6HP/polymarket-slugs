@@ -205,6 +205,7 @@ bnb-updown-5m-1782838200
 bnb-updown-5m-1782838500
 bnb-updown-5m-1782838800
 bnb-updown-5m-1782839100
+bnb-updown-5m-1782839400
 bnb-updown-5m-1782839700
 bnb-updown-5m-1782840000
 bnb-updown-5m-1782840300
@@ -225,6 +226,7 @@ bnb-updown-5m-1782844500
 bnb-updown-5m-1782844800
 bnb-updown-5m-1782845100
 bnb-updown-5m-1782845400
+bnb-updown-5m-1782845700
 bnb-updown-5m-1782846000
 bnb-updown-5m-1782846300
 bnb-updown-5m-1782846600
@@ -273,6 +275,11 @@ bnb-updown-5m-1782859200
 bnb-updown-5m-1782859500
 bnb-updown-5m-1782859800
 bnb-updown-5m-1782860100
+bnb-updown-5m-1782860700
+bnb-updown-5m-1782861000
+bnb-updown-5m-1782861300
+bnb-updown-5m-1782861600
+bnb-updown-5m-1782861900
 bnb-updown-5m-1782862200
 bnb-updown-5m-1782862500
 bnb-updown-5m-1782862800
@@ -505,6 +512,8 @@ btc-updown-5m-1782844200
 btc-updown-5m-1782844500
 btc-updown-5m-1782844800
 btc-updown-5m-1782845100
+btc-updown-5m-1782845400
+btc-updown-5m-1782845700
 btc-updown-5m-1782846000
 btc-updown-5m-1782846300
 btc-updown-5m-1782846600
@@ -539,6 +548,7 @@ btc-updown-5m-1782855000
 btc-updown-5m-1782855300
 btc-updown-5m-1782855600
 btc-updown-5m-1782855900
+btc-updown-5m-1782856200
 btc-updown-5m-1782856500
 btc-updown-5m-1782856800
 btc-updown-5m-1782857100
@@ -552,6 +562,11 @@ btc-updown-5m-1782859200
 btc-updown-5m-1782859500
 btc-updown-5m-1782859800
 btc-updown-5m-1782860100
+btc-updown-5m-1782860700
+btc-updown-5m-1782861000
+btc-updown-5m-1782861300
+btc-updown-5m-1782861600
+btc-updown-5m-1782861900
 btc-updown-5m-1782862200
 btc-updown-5m-1782862500
 btc-updown-5m-1782862800
@@ -764,6 +779,7 @@ doge-updown-5m-1782838200
 doge-updown-5m-1782838500
 doge-updown-5m-1782838800
 doge-updown-5m-1782839100
+doge-updown-5m-1782839400
 doge-updown-5m-1782839700
 doge-updown-5m-1782840000
 doge-updown-5m-1782840300
@@ -784,6 +800,7 @@ doge-updown-5m-1782844500
 doge-updown-5m-1782844800
 doge-updown-5m-1782845100
 doge-updown-5m-1782845400
+doge-updown-5m-1782845700
 doge-updown-5m-1782846000
 doge-updown-5m-1782846300
 doge-updown-5m-1782846600
@@ -832,6 +849,11 @@ doge-updown-5m-1782859200
 doge-updown-5m-1782859500
 doge-updown-5m-1782859800
 doge-updown-5m-1782860100
+doge-updown-5m-1782860700
+doge-updown-5m-1782861000
+doge-updown-5m-1782861300
+doge-updown-5m-1782861600
+doge-updown-5m-1782861900
 doge-updown-5m-1782862200
 doge-updown-5m-1782862500
 doge-updown-5m-1782862800
@@ -1044,6 +1066,7 @@ eth-updown-5m-1782838200
 eth-updown-5m-1782838500
 eth-updown-5m-1782838800
 eth-updown-5m-1782839100
+eth-updown-5m-1782839400
 eth-updown-5m-1782839700
 eth-updown-5m-1782840000
 eth-updown-5m-1782840300
@@ -1064,6 +1087,7 @@ eth-updown-5m-1782844500
 eth-updown-5m-1782844800
 eth-updown-5m-1782845100
 eth-updown-5m-1782845400
+eth-updown-5m-1782845700
 eth-updown-5m-1782846000
 eth-updown-5m-1782846300
 eth-updown-5m-1782846600
@@ -1078,6 +1102,7 @@ eth-updown-5m-1782849000
 eth-updown-5m-1782849300
 eth-updown-5m-1782849600
 eth-updown-5m-1782849900
+eth-updown-5m-1782850200
 eth-updown-5m-1782850500
 eth-updown-5m-1782850800
 eth-updown-5m-1782851100
@@ -1111,6 +1136,11 @@ eth-updown-5m-1782859200
 eth-updown-5m-1782859500
 eth-updown-5m-1782859800
 eth-updown-5m-1782860100
+eth-updown-5m-1782860700
+eth-updown-5m-1782861000
+eth-updown-5m-1782861300
+eth-updown-5m-1782861600
+eth-updown-5m-1782861900
 eth-updown-5m-1782862200
 eth-updown-5m-1782862500
 eth-updown-5m-1782862800
@@ -1344,6 +1374,7 @@ hype-updown-5m-1782844500
 hype-updown-5m-1782844800
 hype-updown-5m-1782845100
 hype-updown-5m-1782845400
+hype-updown-5m-1782845700
 hype-updown-5m-1782846000
 hype-updown-5m-1782846300
 hype-updown-5m-1782846600
@@ -1392,6 +1423,11 @@ hype-updown-5m-1782859200
 hype-updown-5m-1782859500
 hype-updown-5m-1782859800
 hype-updown-5m-1782860100
+hype-updown-5m-1782860700
+hype-updown-5m-1782861000
+hype-updown-5m-1782861300
+hype-updown-5m-1782861600
+hype-updown-5m-1782861900
 hype-updown-5m-1782862200
 hype-updown-5m-1782862500
 hype-updown-5m-1782862800
@@ -1604,6 +1640,7 @@ sol-updown-5m-1782838200
 sol-updown-5m-1782838500
 sol-updown-5m-1782838800
 sol-updown-5m-1782839100
+sol-updown-5m-1782839400
 sol-updown-5m-1782839700
 sol-updown-5m-1782840000
 sol-updown-5m-1782840300
@@ -1624,6 +1661,7 @@ sol-updown-5m-1782844500
 sol-updown-5m-1782844800
 sol-updown-5m-1782845100
 sol-updown-5m-1782845400
+sol-updown-5m-1782845700
 sol-updown-5m-1782846000
 sol-updown-5m-1782846300
 sol-updown-5m-1782846600
@@ -1672,6 +1710,11 @@ sol-updown-5m-1782859200
 sol-updown-5m-1782859500
 sol-updown-5m-1782859800
 sol-updown-5m-1782860100
+sol-updown-5m-1782860700
+sol-updown-5m-1782861000
+sol-updown-5m-1782861300
+sol-updown-5m-1782861600
+sol-updown-5m-1782861900
 sol-updown-5m-1782862200
 sol-updown-5m-1782862500
 sol-updown-5m-1782862800
@@ -1884,6 +1927,7 @@ xrp-updown-5m-1782838200
 xrp-updown-5m-1782838500
 xrp-updown-5m-1782838800
 xrp-updown-5m-1782839100
+xrp-updown-5m-1782839400
 xrp-updown-5m-1782839700
 xrp-updown-5m-1782840000
 xrp-updown-5m-1782840300
@@ -1953,6 +1997,11 @@ xrp-updown-5m-1782859200
 xrp-updown-5m-1782859500
 xrp-updown-5m-1782859800
 xrp-updown-5m-1782860100
+xrp-updown-5m-1782860700
+xrp-updown-5m-1782861000
+xrp-updown-5m-1782861300
+xrp-updown-5m-1782861600
+xrp-updown-5m-1782861900
 xrp-updown-5m-1782862200
 xrp-updown-5m-1782862500
 xrp-updown-5m-1782862800
