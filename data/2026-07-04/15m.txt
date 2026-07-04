@@ -47,6 +47,9 @@ bnb-updown-15m-1783166400
 bnb-updown-15m-1783167300
 bnb-updown-15m-1783168200
 bnb-updown-15m-1783169100
+bnb-updown-15m-1783172700
+bnb-updown-15m-1783173600
+bnb-updown-15m-1783174500
 btc-updown-15m-1783122300
 btc-updown-15m-1783123200
 btc-updown-15m-1783124100
@@ -96,6 +99,9 @@ btc-updown-15m-1783166400
 btc-updown-15m-1783167300
 btc-updown-15m-1783168200
 btc-updown-15m-1783169100
+btc-updown-15m-1783172700
+btc-updown-15m-1783173600
+btc-updown-15m-1783174500
 doge-updown-15m-1783122300
 doge-updown-15m-1783123200
 doge-updown-15m-1783124100
@@ -144,6 +150,9 @@ doge-updown-15m-1783166400
 doge-updown-15m-1783167300
 doge-updown-15m-1783168200
 doge-updown-15m-1783169100
+doge-updown-15m-1783172700
+doge-updown-15m-1783173600
+doge-updown-15m-1783174500
 eth-updown-15m-1783122300
 eth-updown-15m-1783123200
 eth-updown-15m-1783124100
@@ -153,6 +162,7 @@ eth-updown-15m-1783126800
 eth-updown-15m-1783127700
 eth-updown-15m-1783128600
 eth-updown-15m-1783129500
+eth-updown-15m-1783130400
 eth-updown-15m-1783131300
 eth-updown-15m-1783132200
 eth-updown-15m-1783133100
@@ -183,6 +193,7 @@ eth-updown-15m-1783156500
 eth-updown-15m-1783157400
 eth-updown-15m-1783158300
 eth-updown-15m-1783159200
+eth-updown-15m-1783160100
 eth-updown-15m-1783161000
 eth-updown-15m-1783161900
 eth-updown-15m-1783162800
@@ -192,6 +203,9 @@ eth-updown-15m-1783166400
 eth-updown-15m-1783167300
 eth-updown-15m-1783168200
 eth-updown-15m-1783169100
+eth-updown-15m-1783172700
+eth-updown-15m-1783173600
+eth-updown-15m-1783174500
 hype-updown-15m-1783122300
 hype-updown-15m-1783123200
 hype-updown-15m-1783124100
@@ -242,6 +256,9 @@ hype-updown-15m-1783166400
 hype-updown-15m-1783167300
 hype-updown-15m-1783168200
 hype-updown-15m-1783169100
+hype-updown-15m-1783172700
+hype-updown-15m-1783173600
+hype-updown-15m-1783174500
 sol-updown-15m-1783122300
 sol-updown-15m-1783123200
 sol-updown-15m-1783124100
@@ -292,6 +309,9 @@ sol-updown-15m-1783166400
 sol-updown-15m-1783167300
 sol-updown-15m-1783168200
 sol-updown-15m-1783169100
+sol-updown-15m-1783172700
+sol-updown-15m-1783173600
+sol-updown-15m-1783174500
 xrp-updown-15m-1783122300
 xrp-updown-15m-1783123200
 xrp-updown-15m-1783124100
@@ -341,3 +361,6 @@ xrp-updown-15m-1783166400
 xrp-updown-15m-1783167300
 xrp-updown-15m-1783168200
 xrp-updown-15m-1783169100
+xrp-updown-15m-1783172700
+xrp-updown-15m-1783173600
+xrp-updown-15m-1783174500
