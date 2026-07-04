@@ -274,6 +274,7 @@ doge-updown-15m-1783113300
 doge-updown-15m-1783114200
 doge-updown-15m-1783115100
 doge-updown-15m-1783116000
+doge-updown-15m-1783117800
 doge-updown-15m-1783118700
 doge-updown-15m-1783119600
 doge-updown-15m-1783120500
@@ -367,6 +368,7 @@ eth-updown-15m-1783113300
 eth-updown-15m-1783114200
 eth-updown-15m-1783115100
 eth-updown-15m-1783116000
+eth-updown-15m-1783117800
 eth-updown-15m-1783118700
 eth-updown-15m-1783119600
 eth-updown-15m-1783120500
