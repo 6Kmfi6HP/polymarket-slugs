@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-09-19T19:29:09.529690+00:00",
+  "rows": {
+    "5m": 194482,
+    "15m": 64876
+  },
+  "partitions": 91,
+  "quarantine_total": 6629,
+  "seeded_rows_total": 183201,
+  "canary_fields": [
+    "event_metadata.context_requires_regen",
+    "market.clobRewards",
+    "market.gameStartTime",
+    "market.groupItemTitle"
+  ]
+}
