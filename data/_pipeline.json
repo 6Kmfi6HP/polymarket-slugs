@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-10-17T22:44:05.404206+00:00",
+  "rows": {
+    "5m": 259313,
+    "15m": 86484
+  },
+  "partitions": 119,
+  "quarantine_total": 14231,
+  "seeded_rows_total": 183201,
+  "canary_fields": [
+    "event_metadata.context_requires_regen",
+    "market.clobRewards",
+    "market.fallbackResolutionType",
+    "market.gameStartTime",
+    "market.groupItemTitle",
+    "market.oneMonthPriceChange",
+    "market.oneWeekPriceChange",
+    "market.oneYearPriceChange",
+    "market.submitted_by",
+    "market.volume1moAmm",
+    "market.volume1wkAmm",
+    "market.volume1yrAmm",
+    "market.volume24hrAmm",
+    "market.volumeAmm"
+  ]
+}
