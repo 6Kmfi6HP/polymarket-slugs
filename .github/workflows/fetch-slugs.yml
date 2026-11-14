@@ -1,0 +1,49 @@
+name: Fetch Polymarket Slugs
+
+on:
+  # Run every 15 minutes to capture closed 5m/15m markets
+  schedule:
+    - cron: '*/15 * * * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+  # Also run on push to main (to generate initial data)
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run pipeline (pull + build)
+        id: fetch
+        run: |
+          python scripts/fetch-slugs.py 2>&1 | tee fetch_output.log
+
+      # Rolling snapshot: amends the bot's own snapshot commit instead of
+      # stacking a new one, so data updates never grow the git history.
+      # See scripts/git-snapshot.sh for details.
+      - name: Snapshot data (no history growth)
+        env:
+          SNAPSHOT_AUTHOR_NAME: polymarket-slug-bot
+          SNAPSHOT_AUTHOR_EMAIL: bot@polymarket-slugs.local
+          SNAPSHOT_PATHS: data
+          SNAPSHOT_BRANCH: main
+        run: bash scripts/git-snapshot.sh
